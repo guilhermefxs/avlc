@@ -1,0 +1,6 @@
+A Computação Gráfica reúne um conjunto de técnicas que permitem a geração de imagens a partir de modelos computacionais de objetos reais.
+Nesse exemplo, introduzimos um sistema de coordenadas xyz, com origem no centro da tela do monitor e o plano xy coincide com o plano da tela.
+Depois colocamos um objeto nele, como na imagem 1.
+Assim, o que o usuário visualiza são as projeções dos segmentos de reta, formados por pontos do objeto, no plano xy como na imagem 2.
+Também são possíveis algumas tranformações, que serão vistas nos próximos slides.
+
