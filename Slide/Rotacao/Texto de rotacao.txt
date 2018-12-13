@@ -1,0 +1,1 @@
+Para rotacionar o objeto basta multiplicar sua matriz por umas das matrizes de rotação pré definidas.

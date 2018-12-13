@@ -1,2 +1,2 @@
 A transformação de transladar ou deslocar um objeto para uma nova posição na tela.
-Para fazer isso basta somar uma matriz T a matriz do objeto P, formando assim a matriz do objeto deslocado P'. 
+Para fazer isso basta somar uma matriz T(formada poruma repetição de um vetor) a matriz do objeto P, formando assim a matriz do objeto deslocado P'. 
